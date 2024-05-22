@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "691784794221",
+    "project_id": "fir-praktik",
+    "storage_bucket": "fir-praktik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691784794221:android:07252c4b3d2596d12f3f64",
+        "android_client_info": {
+          "package_name": "com.example.firebase_proktik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbSDb9IzgHuuEHV_DbEG8uyyMKQ_y9wnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
